@@ -1,0 +1,5 @@
+var touch = 0
+
+binding.imageButton.setOnClickListener {
+            touch++
+        }
